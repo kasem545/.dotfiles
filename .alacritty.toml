@@ -79,6 +79,7 @@ bindings = [
   {key = "c", mods = "Control|Shift", action = "Copy"},
   {key = "v", mods = "Control|Shift", action = "Paste"},
   {key = "F11", action = "ToggleFullscreen"},
+  {key = "T", mods = "Control|Shift", action = "CreateNewTab"},
 ]
 
 # DEBUG
